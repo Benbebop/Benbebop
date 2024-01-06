@@ -1,15 +1,6 @@
 ![this cool banner is a result of like a 6 year running joke](https://github.com/Benbebop/Benbebop/blob/main/channel_banner.jpg)
 
-Languages I "know":
-* Lua
-* Javascript (Node mostly)
-* C
-* Python
-* JSON (Most important)
-
-Languages I Like:
-* Lua
-* C
+Lua and Go are pretty cool.
 
 ![Incredible Crisis ad](https://github.com/Benbebop/Benbebop/blob/main/funcode.jpg)
 
